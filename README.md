@@ -8,8 +8,6 @@ I’m proactive, collaborative, and endlessly curious — whether I’m leading 
 
 When I’m not coding, you’ll probably find me **hiking 🥾**, playing **chess ♟️**, making **art 🎨**, experimenting in the **kitchen 🍳**, exploring **fashion 👗**, reading **thriller & fiction books 📚**, watching **dystopian films 🎬**, or diving into new **music genres 🎧**.
 
-**I aim to develop projects that revolve around ALL MY HOBBIES**!💖
-
 ---
 
 ### 💼 What I Do
@@ -28,18 +26,9 @@ const sheebaKerubo = {
   tools: ["Git", "GitHub", "Figma", "Jira", "WordPress"],
   projectManagement: ["Agile", "Scrum", "SDLC"],
   interests: [
-    "UI/UX",
-    "Cybersecurity",
-    "Responsible AI",
-    "Machine Learning",
-    "Chess",
-    "Art",
-    "Fashion",
-    "Music",
-    "Hiking",
-    "Cooking"
+    "UI/UX","Cybersecurity","Responsible AI","Machine Learning",
   ],
-  currentlyLearning: "Advanced React & Frontend Architecture",
+  Currently Learning: "Advanced React & Frontend Architecture",
 }
 ```
 ---
