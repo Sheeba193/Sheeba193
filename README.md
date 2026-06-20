@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">
-  👋 Hi, I’m Sheeba | <span style="background: linear-gradient(to right, #ff69b4, #ffb6c1); -webkit-background-clip: text; color: transparent;">Software Engineer & UI/UX Dev</span>
+  👋 Hi, I’m Kerubo Sheeba | <span style="background: linear-gradient(to right, #ff69b4, #ffb6c1); -webkit-background-clip: text; color: transparent;">Software Engineer & UI/UX Dev</span>
 </h1>
 <p align="center">
    Turning ideas into beautiful, usable products | Passionate about Web3, Bitcoin & Machine Learning
